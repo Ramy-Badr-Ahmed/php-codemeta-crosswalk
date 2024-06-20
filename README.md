@@ -1,3 +1,6 @@
+![GitHub top language](https://img.shields.io/github/languages/top/Ramy-Badr-Ahmed/codemetaCrosswalk)
+![GitHub](https://img.shields.io/github/license/Ramy-Badr-Ahmed/codemetaCrosswalk)
+
 # Codemeta.json Crosswalk
 
 This repository has been developed as part of the [FAIR4CoreEOSC project](https://faircore4eosc.eu/eosc-core-components/eosc-research-software-apis-and-connectors-rsac) to address two project's pillars (Describe and Cite).
