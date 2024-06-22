@@ -1,0 +1,57 @@
+{
+    "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+    "@type": "SoftwareSourceCode",
+    "datePublished": "2023-10-06",
+    "dateCreated": "2023-07-31",
+    "description": " Codemeta conversions ",
+    "name": "codemeta-crosswalk",
+    "license": "https://spdx.org/licenses/Apache-2.0.html",
+    "dateModified": "2024-05-06",
+    "softwareVersion": "1.0-Beta",
+    "developmentStatus": "active",
+    "programmingLanguage": "PHP",
+    "operatingSystem": "cross-platform",
+    "runtimePlatform": "PHP Interpreter",
+    "relatedLink": "https://1959e979-c58a-4d3c-86bb-09ec2dfcec8a.ka.bw-cloud-instance.org",
+    "codeRepository": "https://github.com/Ramy-Badr-Ahmed/codemetaCrosswalk",
+    "readme": "https://github.com/Ramy-Badr-Ahmed/codemetaCrosswalk/blob/main/README.md",
+    "identifier": "https://archive.softwareheritage.org/swh:1:dir:b00c5e6af70451deb1960215c2a4b34e53586820;origin=https://github.com/Ramy-Badr-Ahmed/codemetaCrosswalk;visit=swh:1:snp:9e3fdc7155f39bf4fdd94c0af65efa2c31178b15;anchor=swh:1:rev:8224c09eefbf9c1df87de7c0edbeae18e849ca32",
+    "author": [
+        {
+            "@type": "Person",
+            "email": "126559907+Ramy-Badr-Ahmed@users.noreply.github.com",
+            "familyName": "Ahmed",
+            "givenName": "Ramy-Badr"
+        }
+    ],
+    "keywords": [
+        "bibtex",
+        "biblatex",
+        "datacite",
+        "codemeta-json",
+        "codemeta-crosswalk"
+    ],
+    "softwareRequirements": [
+        "PHP >=8.0",
+        "illuminate/validation>=10.43",
+        "composer/spdx-licenses>=1.5",
+        "illuminate/support>=10.39"
+    ],
+    "maintainer": {
+        "@type": "Person",
+        "email": "126559907+Ramy-Badr-Ahmed@users.noreply.github.com",
+        "familyName": "Ahmed",
+        "givenName": "Ramy-Badr"
+    },
+    "applicationCategory": [
+        "codemeta.json",
+        "Metadata",
+        "Conversions of Metadata"
+    ],
+    "funder": {
+        "@type": "Organization",
+        "funding": "EU-Horizon: 101057264",
+        "@id": "https://doi.org/10.3030/101057264",
+        "name": "European Comission"
+    }
+}
