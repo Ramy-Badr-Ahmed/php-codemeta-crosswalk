@@ -1,6 +1,6 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/Ramy-Badr-Ahmed/codemetaCrosswalk)
 ![GitHub](https://img.shields.io/github/license/Ramy-Badr-Ahmed/codemetaCrosswalk)
-[![SWH](https://archive.softwareheritage.org/badge/origin/https://github.com/Ramy-Badr-Ahmed/codemetaCrosswalk/)](https://archive.softwareheritage.org/browse/origin/?origin_url=https://github.com/Ramy-Badr-Ahmed/codemetaCrosswalk)
+[![SWH](https://archive.softwareheritage.org/badge/swh:1:dir:b6b2529f3e58e4af3d8966e3daa61877f4339a8b/)](https://archive.softwareheritage.org/swh:1:dir:b6b2529f3e58e4af3d8966e3daa61877f4339a8b;origin=https://github.com/Ramy-Badr-Ahmed/codemetaCrosswalk;visit=swh:1:snp:8d903de1f5effcbaf4be0d80292eec3006f28264;anchor=swh:1:rev:0cc131e62dd6533e35426e2aae1e4bde2181d7e7)
 
 # Codemeta.json Crosswalk
 
