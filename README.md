@@ -6,6 +6,9 @@
 
 This repository has been developed as part of the [FAIR4CoreEOSC project](https://faircore4eosc.eu/eosc-core-components/eosc-research-software-apis-and-connectors-rsac) to address two project's pillars (Describe and Cite).
 
+> [!Note]
+>  A demonstrable version can be accessed here: [Demo](https://1959e979-c58a-4d3c-86bb-09ec2dfcec8a.ka.bw-cloud-instance.org/)
+
 It currently addresses metadata conversions for the following use cases:
 
 | From     | To            |
