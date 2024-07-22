@@ -3,7 +3,7 @@
 /**
  * @Author: Ramy-Badr-Ahmed
  * @Desc: Codemeta conversions
- * @Repo: https://github.com/dagstuhl-publishing/beta-codemeta-crosswalk
+ * @Repo: https://github.com/Ramy-Badr-Ahmed/codemetaCrosswalk
  */
 
 return [
