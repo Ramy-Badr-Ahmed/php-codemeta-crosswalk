@@ -9,6 +9,10 @@ This repository has been developed as part of the [FAIR4CoreEOSC project](https:
 > [!Note]
 >  A demonstrable version can be accessed here: <a href="https://1959e979-c58a-4d3c-86bb-09ec2dfcec8a.ka.bw-cloud-instance.org/" target="_blank">**Demo Version**</a>
 
+Sample snapshot of the codemeta generator and converter demo:
+
+![snap.PNG](snap.PNG)
+
 It currently addresses metadata conversions for the following use cases:
 
 | From     | To            |
