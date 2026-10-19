@@ -8,7 +8,7 @@
 This repository has been developed as part of the [FAIR4CoreEOSC project](https://faircore4eosc.eu/eosc-core-components/eosc-research-software-apis-and-connectors-rsac) to address two project's pillars (Describe and Cite).
 
 > [!Note]
->  A demonstrable version can be accessed here: <a href="https://1959e979-c58a-4d3c-86bb-09ec2dfcec8a.ka.bw-cloud-instance.org/" target="_blank">**Demo Version**</a>
+>  A demonstrable version can be accessed here: <a href="https://cloud.ka-d83999f9.vm.ka.bwcloud-os-instance.de/" target="_blank">**Demo Version**</a>
 
 Sample snapshot of the codemeta generator and converter demo:
 
